@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/AlexandrM96/test-cats/static/css/main.ca728461.css",
-    "main.js": "/AlexandrM96/test-cats/static/js/main.bc65b397.js",
-    "static/js/787.2b91ced5.chunk.js": "/AlexandrM96/test-cats/static/js/787.2b91ced5.chunk.js",
-    "static/media/cat@2x.png": "/AlexandrM96/test-cats/static/media/cat@2x.ba54ff34920a3197837a.png",
-    "static/media/cat.png": "/AlexandrM96/test-cats/static/media/cat.22c79082392189fbda9e.png",
-    "static/media/Exo2.0-Thin.ttf": "/AlexandrM96/test-cats/static/media/Exo2.0-Thin.90484aeb6e5509d1acff.ttf",
-    "static/media/Exo2.0-Thin.eot?": "/AlexandrM96/test-cats/static/media/Exo2.0-Thin.5151e3ccfe0f9633cfe0.eot",
-    "static/media/Exo2.0-Thin.otf": "/AlexandrM96/test-cats/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
-    "static/media/Exo2.0-Thin.woff": "/AlexandrM96/test-cats/static/media/Exo2.0-Thin.eff19c8fa2af5fab0915.woff",
-    "index.html": "/AlexandrM96/test-cats/index.html",
-    "main.ca728461.css.map": "/AlexandrM96/test-cats/static/css/main.ca728461.css.map",
-    "main.bc65b397.js.map": "/AlexandrM96/test-cats/static/js/main.bc65b397.js.map",
-    "787.2b91ced5.chunk.js.map": "/AlexandrM96/test-cats/static/js/787.2b91ced5.chunk.js.map"
+    "main.css": "/test-cats/static/css/main.25b8d73a.css",
+    "main.js": "/test-cats/static/js/main.8ff30c2e.js",
+    "static/js/787.2b91ced5.chunk.js": "/test-cats/static/js/787.2b91ced5.chunk.js",
+    "static/media/cat@2x.png": "/test-cats/static/media/cat@2x.ba54ff34920a3197837a.png",
+    "static/media/cat.png": "/test-cats/static/media/cat.22c79082392189fbda9e.png",
+    "static/media/Exo2.0-Thin.ttf": "/test-cats/static/media/Exo2.0-Thin.90484aeb6e5509d1acff.ttf",
+    "static/media/Exo2.0-Thin.eot?": "/test-cats/static/media/Exo2.0-Thin.5151e3ccfe0f9633cfe0.eot",
+    "static/media/Exo2.0-Thin.otf": "/test-cats/static/media/Exo2.0-Thin.51c257bfa8ec3e0cfb4b.otf",
+    "static/media/Exo2.0-Thin.woff": "/test-cats/static/media/Exo2.0-Thin.eff19c8fa2af5fab0915.woff",
+    "index.html": "/test-cats/index.html",
+    "main.25b8d73a.css.map": "/test-cats/static/css/main.25b8d73a.css.map",
+    "main.8ff30c2e.js.map": "/test-cats/static/js/main.8ff30c2e.js.map",
+    "787.2b91ced5.chunk.js.map": "/test-cats/static/js/787.2b91ced5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca728461.css",
-    "static/js/main.bc65b397.js"
+    "static/css/main.25b8d73a.css",
+    "static/js/main.8ff30c2e.js"
   ]
 }
